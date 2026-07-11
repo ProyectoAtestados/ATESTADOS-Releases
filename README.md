@@ -1,12 +1,12 @@
 # ATESTADOS – Actualizaciones oficiales
 
-Este repositorio se utiliza exclusivamente para publicar las versiones y las notas de actualización de la aplicación **ATESTADOS**.
+Este repositorio se utiliza exclusivamente para publicar las versiones oficiales y las notas de actualización de la aplicación **ATESTADOS**.
 
-## ¿Qué contiene?
+## Contenido
 
-- Notas de cada versión.
+- Notas de cada versión publicada.
 - Historial de cambios.
-- Información sobre nuevas funcionalidades y correcciones.
+- Información sobre nuevas funcionalidades, mejoras y correcciones.
 
 ## Código fuente
 
